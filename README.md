@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrouk110/sheets/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shrouk110/sheets/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -22,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrouk110/sheets/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shrouk110/sheets/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shrouk110/sheets/tree/master/0066-plus-one) |
 ## Divide and Conquer
