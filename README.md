@@ -10,6 +10,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shrouk110/sheets/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shrouk110/sheets/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/shrouk110/sheets/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrouk110/sheets/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shrouk110/sheets/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shrouk110/sheets/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
