@@ -14,4 +14,16 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shrouk110/sheets/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shrouk110/sheets/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shrouk110/sheets/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shrouk110/sheets/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
