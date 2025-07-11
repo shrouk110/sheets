@@ -9,7 +9,7 @@ public:
         int total;
 
         for (int i = 3; i <= n; i++) {
-            total = first + second; // ways to reach step i
+            total = first + second; 
             first = second;
             second = total;
         }
